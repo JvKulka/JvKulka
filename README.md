@@ -2,6 +2,7 @@
 
 - 🔭 Programador Front-End
 - 🌱 Estudando React
+- 💻 Linkedin: https://www.linkedin.com/in/jvkulka/
 
 <div align="center">
   <a href="https://github.com/JvKulka">
