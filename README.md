@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/JvKulka">
-  <img height="160em" width="42%" src="https://github-readme-stats.vercel.app/api?username=JvKulka&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvKulka&layout=compact&langs_count=7&theme=merko"/>
+  <img height="165em" width="42%" src="https://github-readme-stats.vercel.app/api?username=JvKulka&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvKulka&layout=compact&langs_count=7&theme=merko"/>
 </div>
  
 ## 💻 Tech Stack:
