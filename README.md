@@ -1,5 +1,4 @@
-# 💫 About Me:
-### Olá! Me chamo João Victor Kulka 👋
+# Olá! Me chamo João Victor Kulka 👋
 🔭 Programador Front-End<br>🌱 Estudando React
 
 # 📊 GitHub Stats:
