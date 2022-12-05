@@ -12,9 +12,9 @@
 <a href = "mailto:jv.kulka13@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jvkulka" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JvKulka&bg_color=0d1117&color=25f833&line=25f833&point=1b9e24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
- 
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JvKulka&bg_color=0d1117&color=25f833&line=25f833&point=1b9e24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+  
  ### Skills:
  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00&labelColor=0D1117)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
